@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=venue\ userList
+comment2.target=void\ AddDefaults(Venue,\ java.util.ArrayList)
+comment2.text=\r\n\ Adds\ example/default\ shows\ and\ users.\r\n\ @param\ venue\ Venue\ to\ add\ the\ shows\ to.\r\n\ @param\ userList\ User\ list\ to\ add\ the\ users\ to.\r\n
+numComments=3

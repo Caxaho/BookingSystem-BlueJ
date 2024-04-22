@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=name\ username\ emailAddress\ password
+comment1.target=Agent(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Agent\ constructor.\ Child\ of\ User.\r\n\ @param\ name\ Name\ of\ agent\ .\r\n\ @param\ username\ Username\ of\ agent.\r\n\ @param\ emailAddress\ Email\ address\ of\ agent.\r\n\ @param\ password\ Password\ of\ agent.\r\n
+comment2.params=commission\ showID\ seats
+comment2.target=void\ addContract(float,\ int,\ int[])
+comment2.text=\r\n\ Add\ contract\ to\ agent.\r\n\ @param\ commission\ Commission\ percentage.\r\n\ @param\ showID\ Show\ which\ the\ contract\ pertains\ to.\r\n\ @param\ seats\ Seat\ IDs\ included\ in\ the\ contract.\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getContracts()
+comment3.text=\r\n\ Get\ all\ contracts\ of\ agent.\r\n\ @return\ contracts\ of\ agent.\r\n
+numComments=4

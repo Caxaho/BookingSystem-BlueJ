@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=showID\ seats
+comment1.target=Booking(int,\ java.lang.String[])
+comment1.text=\r\n\ Booking\ constructor\r\n\ @param\ showID\ Show\ ID\ which\ the\ booking\ pertains\ to.\r\n\ @param\ seats\ Seats\ included\ in\ the\ booking\ (names\ i.e.\ 'A4',\ or\ 'B5'\ etc.)\r\n
+comment2.params=
+comment2.target=int\ getID()
+comment2.text=\r\n\ Get\ booking\ ID.\r\n\ @return\ Booking\ ID.\r\n
+comment3.params=
+comment3.target=int\ getShowID()
+comment3.text=\r\n\ Get\ show\ ID.\r\n\ @return\ Show\ ID\ of\ booking.\r\n
+comment4.params=
+comment4.target=java.lang.String[]\ getSeats()
+comment4.text=\r\n\ Get\ seats.\r\n\ @return\ Seats\ of\ booking\ (names\ i.e.\ 'A4',\ or'\ B5'\ etc.).\r\n
+numComments=5

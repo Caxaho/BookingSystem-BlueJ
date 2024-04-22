@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Promotion
+comment1.params=name\ priceModifiers\ seatRanges
+comment1.target=Promotion(java.lang.String,\ float[],\ int[][])
+comment1.text=\r\n\ Instantiate\ Promotion\ class\ with\ immutable\ price\ modifiers\ and\ seat\ ranges\ which\ must\ match\ in\ length.\r\n\ @param\ name\ Name\ of\ promotion.\r\n\ @param\ priceModifiers\ float\ array\ of\ percentage\ modifiers\ of\ the\ original\ seat\ price.\r\n\ @param\ seatRanges\ 2D\ int\ array\ with\ ranges\ of\ seat\ IDs\ to\ apply\ the\ price\ modifiers\ to.\r\n\ @throws\ IllegalArgumentException\ If\ priceModifiers\ and\ seatRanges\ do\ not\ match\ in\ length,\r\n\ the\ seat\ range\ arrays\ do\ not\ have\ a\ valid\ length,\r\n\ the\ IDs\ of\ the\ seat\ ranges\ is\ high\ to\ low\ instead\ of\ low\ to\ high,\r\n\ or\ seatRanges\ contains\ duplicates/crossover\ seat\ IDs.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=float[]\ getPriceModifiers()
+comment6.params=
+comment6.target=getFullSeatRanges()
+numComments=7

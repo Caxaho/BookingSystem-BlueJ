@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Contract
+comment1.params=commission\ showID\ seats
+comment1.target=Contract(float,\ int,\ int[])
+comment2.params=
+comment2.target=float\ getCommission()
+comment3.params=
+comment3.target=int\ getShowID()
+comment4.params=
+comment4.target=int[]\ getSeats()
+numComments=5
